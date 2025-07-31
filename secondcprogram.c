@@ -7,6 +7,7 @@ int main()
     char address[2][3][20];
     char contact[2][3][10];
     char email[2][3][20];
+    
 
     for(int i = 0; i < 2; i++)
     {

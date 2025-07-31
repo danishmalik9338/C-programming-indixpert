@@ -3,8 +3,9 @@
 int main()
 {
     printf("This is my first C program !");
-    printf("Account updated successfully. ");
+    printf("Account updated to successfully. ");
 
 
+    
     return 0; 
 }
